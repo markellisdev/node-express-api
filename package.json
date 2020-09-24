@@ -1,0 +1,27 @@
+{
+  "name": "express-api",
+  "version": "1.0.0",
+  "description": "--- ## More to come......",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markellisdev/node-express-api.git"
+  },
+  "keywords": [
+    "expressjs",
+    "nodejs",
+    "api"
+  ],
+  "author": "markellisdev@protonmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/markellisdev/node-express-api/issues"
+  },
+  "homepage": "https://github.com/markellisdev/node-express-api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
